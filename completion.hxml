@@ -1,0 +1,6 @@
+-p src
+-L hxnodejs
+-L form-data
+js.npm.NodeFetch
+--js dummy.js
+--no-output
