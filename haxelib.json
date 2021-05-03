@@ -4,7 +4,7 @@
     "license": "Apache",
     "tags": ["extern", "js", "nodejs", "node-fetch"],
     "description": "Haxe extern definitions for node-fetch",
-    "version": "2.6.0",
+    "version": "2.6.1",
     "classPath": "src/",
     "releasenote": "Release for node-fetch 2.6.1",
     "contributors": ["denkiyagi"],
