@@ -17,7 +17,7 @@ extern class Body {
     final bodyUsed:Bool;
     function arrayBuffer():Promise<ArrayBuffer>;
     function blob():Promise<Blob>;
-    function json():Promise<Any>;
+    function json():Promise<Dynamic>;
     function text():Promise<String>;
     function buffer():Promise<Buffer>;
     function textConverted():Promise<String>;
