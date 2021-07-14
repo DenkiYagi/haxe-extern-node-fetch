@@ -4,9 +4,9 @@
     "license": "Apache",
     "tags": ["extern", "js", "nodejs", "node-fetch"],
     "description": "Haxe extern definitions for node-fetch",
-    "version": "2.6.2",
+    "version": "2.6.3",
     "classPath": "src/",
-    "releasenote": "Release for node-fetch 2.6.1",
+    "releasenote": "Release for node-fetch 2.6.1. Add `nodefetch_always_require` flag.",
     "contributors": ["denkiyagi"],
     "dependencies": {
         "hxnodejs": "",
